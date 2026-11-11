@@ -9,13 +9,16 @@ Pages
 index.html      Landing page (black theme)
 access-x.html   Access-X (red theme)
 wealth.html     Visionary Family Offices (white theme)
-rcm.html        Visionary RCM (black theme)
+rcm.html        Visionary RCM (black theme), with a visual "How it works" section
+rcm-how-it-works.html  Full RCM walkthrough, diagram by diagram (black theme)
 media.html      Visionary Media (red theme)
 founder.html    Founder, Alex Salzman (black theme)
 history.html    History since 2012 (black theme)
 survey.html     Access Survey; also the "Join" page (black theme)
 
 assets/theme-black.css, theme-red.css, theme-white.css   one stylesheet per theme
+assets/rcm/             RCM diagrams (JPEG, 1920px), from the Access-X RCM deck (6 Nov 2026)
+assets/rcm.js            click-to-enlarge for diagrams; contents highlight
 assets/site-config.js   outbound links to each brand's own site (see below)
 assets/visionary-logo.png, alex-salzman.jpg              images
 
