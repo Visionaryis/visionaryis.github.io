@@ -13,12 +13,14 @@ rcm.html        Visionary RCM (black theme), with a visual "How it works" sectio
 rcm-how-it-works.html  Full RCM walkthrough, diagram by diagram (black theme)
 media.html      Visionary Media (red theme)
 founder.html    Founder, Alex Salzman (black theme)
-history.html    History since 2012 (black theme)
+history.html    History scrapbook: numbered stages, no dates (black theme)
 survey.html     Access Survey; also the "Join" page (black theme)
 
 assets/theme-black.css, theme-red.css, theme-white.css   one stylesheet per theme
 assets/rcm/             RCM diagrams (JPEG, 1920px), from the Access-X RCM deck (6 Nov 2026)
 assets/rcm.js            click-to-enlarge for diagrams; contents highlight
+assets/history/          History scrapbook photos and flyers (JPEG, max 1400px)
+assets/history.js        click-to-enlarge for the History scrapbook
 assets/site-config.js   outbound links to each brand's own site (see below)
 assets/visionary-logo.png, alex-salzman.jpg              images
 
